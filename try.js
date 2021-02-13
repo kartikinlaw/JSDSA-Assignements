@@ -33,5 +33,52 @@
 //     subsq(str,restr,si+1);
 // }
 
-
 // subsq('abc','',0);
+// let k=0,m=0,count =0;
+// while(k+m<2021){
+//     k+=2;
+//     m-=1;
+//     count++;
+// }
+
+// console.log(count);
+
+// let nums = [1, 2, 3, 1, 3, 4];
+
+// console.log("4532".length)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
