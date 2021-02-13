@@ -1,4 +1,10 @@
 1. 8*8 chess board
 2. Dumbell program
 
-In Assignment1 , complete Pattern e and i.
+Note : Any Base to Any Base does not work for any base above than 10 . It does not work for hexadecimal
+3. Do hexadecimal to decimal and vice versa
+
+4.In Assignment1 , complete Pattern e and i.
+
+HW Recursion 13Feb :
+5.Check if a string is palindrome

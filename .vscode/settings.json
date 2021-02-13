@@ -1,3 +1,5 @@
 {
-    "debug.showInStatusBar": "always"
+    "debug.showInStatusBar": "always",
+    "debug.openDebug": "openOnSessionStart",
+    "debug.javascript.autoAttachFilter": "always"
 }
